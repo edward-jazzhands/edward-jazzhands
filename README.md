@@ -1,10 +1,11 @@
-# Edward Jazzhands
+"Programming is the art of building machines out of ideas." - Edward Jazzhands
 
-Edward Jazzhands is not a professional coder yet, but he really wishes he was. Then he could quit his job doing construction renos and building maintenance, and instead spend all his time coding.
+Python enthusiast, web developer, expert in the Textual framework for Python. I have written and maintain several libraries for Textual.
 
-Considering I only have time to code when I'm not at my job, imagine what I'd be able to do if I actually got paid to code.
+Libraries: [http://www.github.com/edward-jazzhands/libraries](http://www.github.com/edward-jazzhands/libraries)
 
-<!---
-edward-jazzhands/edward-jazzhands is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Blog: [https://edward-jazzhands.github.io/](https://edward-jazzhands.github.io/)
+
+[![Skills](https://skillicons.dev/icons?i=astro,aws,css,debian,django,docker,fastapi,git,github,linux,py,sqlite,ts,vercel,vscode,ableton&perline=8)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edward-jazzhands&layout=compact&theme=radical)
