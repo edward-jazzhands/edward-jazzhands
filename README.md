@@ -4,7 +4,7 @@ I have written and maintain several libraries for Textual.
 
 [https://edward-jazzhands.github.io/](https://edward-jazzhands.github.io/)
 
-[![Skills](https://skillicons.dev/icons?i=astro,aws,css,debian,django,docker,fastapi,git,github,linux,py,sqlite,js,vercel,vscode,ableton&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,py,css,lua,debian,django,aws,fastapi,git,github,linux,sqlite,js,vercel,vscode,ableton&perline=8)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edward-jazzhands&layout=compact&theme=radical)
 > *"Programming is the art of building machines out of ideas."*  
