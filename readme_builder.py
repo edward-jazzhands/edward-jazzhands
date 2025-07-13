@@ -1,5 +1,5 @@
 my_skillz = [
-    "astro",
+    "lua",
     "aws",
     "css",
     "debian",
