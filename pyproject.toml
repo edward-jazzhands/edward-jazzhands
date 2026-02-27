@@ -1,7 +1,0 @@
-[project]
-name = "edward-jazzhands"
-version = "0.1.0"
-description = "github profile readme generator"
-readme = "README.md"
-requires-python = ">=3.12"
-dependencies = []
